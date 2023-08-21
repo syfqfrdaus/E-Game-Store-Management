@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\USER\Desktop\BITU2913\Code\Workshop 1\Workshop1\Main.cpp(514,6): warning C4101: 'choose': unreferenced local variable
+  Generating code
+  167 of 173 functions (96.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Workshop1.vcxproj -> C:\Users\USER\Desktop\BITU2913\Code\Workshop 1\Workshop1\x64\Release\Workshop1.exe
